@@ -9,3 +9,5 @@
 7
 8. transformar datos
 9. cargar datos
+10 para validar si se actualiza en git
+  
